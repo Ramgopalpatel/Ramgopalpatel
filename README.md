@@ -31,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramgopalpatel&show_icons=true&locale=en" alt="ramgopalpatel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramgopalpatel&" alt="ramgopalpatel" /></p>
+
+![](https://activity-graph.herokuapp.com/graph?username=Ramgopalpatel&theme=react-dark&area=true)
