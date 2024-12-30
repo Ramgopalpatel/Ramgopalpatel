@@ -6,7 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramgopalpatel&label=Profile%20views&color=0e75b6&style=flat" alt="ramgopalpatel" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@ramgopa04863475" target="blank"><img src="https://img.shields.io/twitter/follow/@ramgopa04863475?logo=twitter&style=for-the-badge" alt="@ramgopa04863475" /></a> </p>
-- I can work as a frontend developer, Backend developer, react developer, and MERN stack developer.
+- I can work as a frontend developer, Backend developer, react developer, MERN stack developer, Data Analyst.
+.
 
 - 📫 How to reach me **rgpatel119@gmail.com**
 
